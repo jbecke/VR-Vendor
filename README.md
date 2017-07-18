@@ -7,7 +7,7 @@ This project has several dependencies. I've only tested it on Windows.
 
 
 <ul>
-<li>Unreal Engine with <a href="https://github.com/20tab/UnrealEnginePython">Unreal Engine Python</a> installed</li>
+<li>Unreal Engine 4.16 with <a href="https://github.com/20tab/UnrealEnginePython">Unreal Engine Python</a> installed</li>
 <li>Python 3 (added to PATH)</li>
 <li>An AWS account</li>
 <li>AWS Boto3 library with credentials</li>
