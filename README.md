@@ -1,5 +1,6 @@
 # VR Vendor
-Speak to virtual characters to make VR in-app purchases! This is the github page for my 2017 AWS Chatbot Competition <a href="https://devpost.com/software/vr-vendor">submission</a>.
+<img src="https://raw.githubusercontent.com/jbecke/VR-Vendor/master/media/vr_vendor.jpg">
+Speak to virtual characters to make VR in-app purchases! This is the github page for my 2017 AWS Chatbot Competition <a href="https://devpost.com/software/vr-vendor">submission</a>. This project integrates Lex with game engines Unreal Engine 4 and Amazon Lumberyard so that players can speak to in-game characters.
 
 <h3>Why Lex?</h3>
 
@@ -26,6 +27,8 @@ Here's how this project works: At "begin_play()" the user speaks into their micr
 <h3>Using Amazon Lumberyard</h3>
 
 Lumberyard is in beta and lacks an audio input library. It doesn't seem to like having external processes spawned from its Lua scripting interface, as it freezes up and locks the mouse even after the game has ended. Thus, I have only implemented text-based support for Lumberyard. I.e. you type into a textbox at the bottom right of the screen to talk to the bot. To test this, download the Lumberyard directory and place the level inside the Starter Project (as it uses Starter Project assets). Play the game and walk forward a bit and the tirigger arena will fire, allowing you to chat with the character.
+
+<img src="https://raw.githubusercontent.com/jbecke/VR-Vendor/master/media/lumberyard.png">
 
 <h3>Future Direction</h3>
 
