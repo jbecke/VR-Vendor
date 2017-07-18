@@ -21,7 +21,7 @@ Here's how this project works: At "begin_play()" the user speaks into their micr
 
 <h3>Using Amazon Lumberyard</h3>
 
-Lumberyard is in beta and needs lacks an audio input library. It doesn't seem to like having external processes spawned from its Lua scripting interface, as it freezes up and locks the mouse even after the game has ended. Thus, I have only implemented text-based support for Lumberyard. I.e. you type into a textbox at the bottom right of the screen to talk to the bot. To test this, download the Lumberyard directory and place the level inside the Starter Project (as it uses Starter Project assets). Play the game and walk forward a bit and the tirigger arena will fire, allowing you to chat with the character.
+Lumberyard is in beta and lacks an audio input library. It doesn't seem to like having external processes spawned from its Lua scripting interface, as it freezes up and locks the mouse even after the game has ended. Thus, I have only implemented text-based support for Lumberyard. I.e. you type into a textbox at the bottom right of the screen to talk to the bot. To test this, download the Lumberyard directory and place the level inside the Starter Project (as it uses Starter Project assets). Play the game and walk forward a bit and the tirigger arena will fire, allowing you to chat with the character.
 
 <h3>Future Direction</h3>
 
