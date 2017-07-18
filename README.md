@@ -1,4 +1,5 @@
 # VR Vendor
+<img src="https://raw.githubusercontent.com/jbecke/VR-Vendor/master/media/vr_vendor.jpg">
 Speak to virtual characters to make VR in-app purchases! This is the github page for my 2017 AWS Chatbot Competition <a href="https://devpost.com/software/vr-vendor">submission</a>.
 
 <h3>Why Lex?</h3>
