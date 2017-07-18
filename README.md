@@ -1,5 +1,9 @@
 # VR Vendor
-Speak to virtual characters to make VR in-app purchases! This is the github page for my 2017 AWS Chatbot Competition <a href="https://devpost.com/software/vr-vendor">submission</a>. 
+Speak to virtual characters to make VR in-app purchases! This is the github page for my 2017 AWS Chatbot Competition <a href="https://devpost.com/software/vr-vendor">submission</a>.
+
+<h3>Why Lex?</h3>
+
+Text-to-speech is rapidly improving but still doesn't sound like a human. The point of this project is allowing immersion while making payments, so I wanted to use pre-recorded human voice. Lex allows me to have powerful speech-understanding but still standardize outputs (as opposed to an end-to-end ANN model). For example, all inputs to the effect of "how are you?" could produce an output "good.wav" to play the sound file.
 
 <h3> Setup Instructions</h3>
 
