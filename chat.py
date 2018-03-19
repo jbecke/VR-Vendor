@@ -6,7 +6,7 @@ from time import sleep
 HOST = "irc.twitch.tv"              # the Twitch IRC server
 PORT = 6667                         # always use port 6667!
 NICK = "jbecke"            # your Twitch username, lowercase
-PASS = "oauth:qpjihb9a9c75lcyd10k0dipegt9s8v" # your Twitch OAuth token
+PASS = "" # your Twitch OAuth token
 CHAN = "jbecke"                   # the channel you want to join
 
 def chat(sock, msg):
