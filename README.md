@@ -1,5 +1,5 @@
 # VR Vendor
-<img src="https://raw.githubusercontent.com/jbecke/VR-Vendor/master/media/vr_vendor.jpg">
+<img src="https://raw.githubusercontent.com/jbecke/VR-Vendor/ae473fd5e0cdaabf7e5912e944139aea77212e9f/vr_vendor.jpg">
 Speak to virtual characters to make VR in-app purchases! This is the github page for my 2017 AWS Chatbot Competition <a href="https://devpost.com/software/vr-vendor">submission</a>. This project integrates Lex with game engines Unreal Engine 4 and Amazon Lumberyard so that players can speak to in-game characters.
 
 <h3>Why Lex?</h3>
